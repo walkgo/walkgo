@@ -10,7 +10,7 @@ Hello everyone, I'm Vladimir, Python Web Back-end Developer.
 -   🌎 Website - [bazdev.tech](https://bazdev.tech)
     -  📃[Resume](https://bazdev.tech)
 
-## 😄 About me
+## 🧐 About me
 
 👋 My name is Vladimir, I am Python Developer. I love technology and everything related to it.
 
