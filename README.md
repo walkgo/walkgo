@@ -7,8 +7,8 @@ Hello everyone, I'm Vladimir, Python Web Back-end Developer.
 **Contacts:**
 
 -   💬 Telegram - [@baz_dev](https://t.me/baz_dev)
--   🌎 Website - [bazdev.tech](https://bazdev.tech)
-    -  📃[Resume](https://bazdev.tech)
+-   🌎 Website - [bazdev.ru](https://bazdev.ru)
+    -  📃[Resume](https://bazdev.ru/cv)
 
 ## 🧐 About me
 
