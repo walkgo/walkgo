@@ -1,7 +1,5 @@
 ## 🤝Hello everyone
 
-Hello everyone, I'm Vladimir, Python Web Back-end Developer. 
-
 🤍 Python and its frameworks
 
 **Contacts:**
