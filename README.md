@@ -1,7 +1,5 @@
 ## 🤝Hello everyone
 
-🤍 Python and its frameworks
-
 **Contacts:**
 
 -   💬 Telegram - [@bazzzvl](https://t.me/bazzzvl)
