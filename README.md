@@ -6,12 +6,10 @@ Hello everyone, I'm Vladimir, Python Web Back-end Developer.
 
 **Contacts:**
 
--   💬 Telegram - [@baz_dev](https://t.me/baz_dev)
+-   💬 Telegram - [@bazzzvl](https://t.me/bazzzvl)
 -   🌎 Website - [bazdev.ru](https://bazdev.ru)
-    -  📃[Resume](https://bazdev.ru/cv)
+    -  📃[CV](https://bazdev.ru/cv)
 
 ## 🧐 About me
 
 👋 My name is Vladimir, I am Python Developer. I love technology and everything related to it.
-
-💼 I’m currently working as a freelancer and looking for a permanent job as a python developer. Open for suggestions.
